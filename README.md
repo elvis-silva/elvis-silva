@@ -21,6 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
 </p>
 
+<div>
+  <a href="https://app.daily.dev/elvissilva"><img height="280em" src="https://api.daily.dev/devcards/f3901acdcf98471e88c2dbe730c4ee60.png?r=xoe" alt="Elvis Silva's Dev Card"/></a>
+</div>
+
 ### Bem vindo ao meu perfil 👋
 
 Atualmente estou aprendendo e aprimorando meu conhecimento e técnicas de programação pela web mesmo, gosto de ser autodidata 😄, aprender cada vez mais é sempre bom.
@@ -40,10 +44,6 @@ Bora aprender mais.
 Obrigado se chegou até aqui.😄
 
 ### OBS: Estou alimentando meu Github aos pouco. Breve mais novidades.
-
-<div>
-  <a href="https://app.daily.dev/elvissilva"><img height="180em" src="https://api.daily.dev/devcards/f3901acdcf98471e88c2dbe730c4ee60.png?r=xoe" alt="Elvis Silva's Dev Card"/></a>
-</div>
 
 <div>
 <a href="https://github.com/elvis-silva">
