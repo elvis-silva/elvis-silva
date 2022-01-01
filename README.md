@@ -29,15 +29,15 @@ Pretendo também começar escrever alguns artigos pra poder ajudar outros devs, 
 
 Sou meio quietão mesmo, mas quando pego alguma coisa pra fazer tento completar a tarefa o quanto antes e da melhor forma possível.
 
-O que tem me ajudado bastante nesses dias de pandemia é participar dos bobtcamps oferecidos gratuitamente pela Dio._ (https://www.dio.me/), cara se você não conhece vai lá, é uma super plataforma de aprendizado que eu nunca tinha visto em minha vida, tem de tudo pra aprender e até mesmo concorrer a uma vaga nas melhores empresas da atualidade do mercado de tecnologia. 😉
+O que tem me ajudado bastante nesses dias de pandemia é participar dos bootcamp's oferecidos gratuitamente pela <a href="https://www.dio.me/"><b>Dio._</b></a>, cara se você não conhece vai lá, é uma super plataforma de aprendizado que eu nunca tinha visto em minha vida, tem de tudo pra aprender e até mesmo concorrer a uma vaga nas melhores empresas da atualidade no mundo tech. 😉
 
-Amo programar e conheço HTML5, CSS, Javascript, Java, C#, SQL. Meu objetivo hoje é dominar o JS sem deixar as demais de lado, pretendo ser um Jedi eu todas as linguagens possíveis de aprender e poder resolver problemas com cada uma.
+Amo programar e conheço HTML5, CSS, Javascript, Java, C#, SQL. Meu objetivo hoje é dominar o JS sem deixar as demais linguagens de programação de lado. Pretendo ser um Jedi em todas as linguagens possíveis de aprender e poder resolver problemas com cada uma delas.
 
 Conhecimento é o bem mais precioso que um ser humano pode ter.
 
-Bora aprender mais.
+Bora aprender mais. 🚀🚀🚀
 
-Obrigado se chegou até aqui.😄
+Obrigado se chegou até aqui. 😄
 
 ### OBS: Estou alimentando meu Github aos pouco. Breve mais novidades.
 
