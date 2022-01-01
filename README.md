@@ -42,6 +42,10 @@ Obrigado se chegou até aqui.😄
 ### OBS: Estou alimentando meu Github aos pouco. Breve mais novidades.
 
 <div>
+  <a href="https://app.daily.dev/elvissilva"><img src="https://api.daily.dev/devcards/f3901acdcf98471e88c2dbe730c4ee60.png?r=xoe" width="400" alt="Elvis Silva's Dev Card"/></a>
+</div>
+
+<div>
 <a href="https://github.com/elvis-silva">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-silva&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
