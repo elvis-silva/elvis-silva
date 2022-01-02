@@ -50,9 +50,9 @@ Obrigado se chegou até aqui. 😄
 ![Snake animation](https://github.com/elvis-silva/elvis-silva/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-<a href="https://app.daily.dev/elvissilva" target="_blank"><img height="350em" src="https://api.daily.dev/devcards/f3901acdcf98471e88c2dbe730c4ee60.png?r=xoe" alt="Elvis Silva's Dev Card"/></a>  
+<a href="https://app.daily.dev/elvissilva" target="_blank"><img height="350em" src="https://api.daily.dev/devcards/f3901acdcf98471e88c2dbe730c4ee60.png?r=k3e" alt="Elvis Silva's Dev Card"/></a>
 </div>
-
+  
 <!--
 **elvis-silva/elvis-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
