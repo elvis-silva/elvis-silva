@@ -32,13 +32,15 @@ Sou meio quietão mesmo, mas quando pego alguma coisa pra fazer tento completar 
 
 O que tem me ajudado bastante nesses dias de pandemia é participar dos bootcamp's oferecidos gratuitamente pela <a href="https://www.dio.me/"><b>Dio._</b></a>, cara se você não conhece vai lá, é uma super plataforma de aprendizado que eu nunca tinha visto em minha vida, tem de tudo pra aprender e até mesmo concorrer a uma vaga nas melhores empresas da atualidade no mundo tech. 😉
 
-Amo programar e tenho mais de 8 anos de experiência principalmente em aplicativos android e Java no Adnroid Studio, mas também conheço bem HTML5, CSS, Javascript, C#, SQL, ReactJS, NodeJS, PHP e algumas mais. Meu objetivo hoje é dominar o JS sem deixar as demais linguagens de programação de lado. Pretendo ser um Jedi em todas as linguagens possíveis de aprender e poder resolver problemas com cada uma delas.
+Amo programar e tenho mais de 8 anos de experiência principalmente em aplicativos Android em Java no Android Studio, mas também conheço bem HTML5, CSS, Javascript, C#, SQL, ReactJS, NodeJS, PHP e algumas mais. Meu objetivo hoje é dominar o JS sem deixar as demais linguagens de programação de lado. Pretendo ser um Jedi em todas as linguagens possíveis de aprender e poder resolver problemas com cada uma delas.
 
-Conhecimento é o bem mais precioso que um ser humano pode ter.
+Conhecimento é o seu bem mais precioso.
 
 Bora aprender mais. 🚀🚀🚀
 
 Obrigado se chegou até aqui. 😄
+
+Visite me site também, criado em React:    <a href="https://www.elvissilva.dev/"><b>Elvis Silva Dev</b></a>
 
 <div>
 <a href="https://github.com/elvis-silva">
