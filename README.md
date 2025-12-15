@@ -41,7 +41,7 @@ Bora aprender mais. 🚀🚀🚀
 
 Obrigado se chegou até aqui. 😄
 
-Visite me site também, criado em React:    <a href="https://www.ai2you.com.br/"><b>Elvis Silva Dev</b></a>
+Visite me site também, criado em React:    <a href="https://www.ai2you.com.br/"><b>AI 2 YOU</b></a>
 
 <div>
 <a href="https://github.com/elvis-silva">
